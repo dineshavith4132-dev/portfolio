@@ -108,7 +108,7 @@ export default function Hero() {
               style={{ opacity: 0, transform: 'translateY(20px)', transition: 'all 0.6s ease' }}
             >
               <a
-                href="/D:\internship\web\portfolio-website-main\public\Avith_FlowCV_Resume_2026-04-29 (2).pdf"
+                href="/Avith_FlowCV_Resume_2026-04-29 (2).pdf"
                 className="btn-primary flex items-center gap-2 text-sm"
               >
                 <Download size={16} />
