@@ -1,6 +1,7 @@
 import { useEffect, useRef } from 'react';
 import { ArrowDown, Download, Mail, Linkedin, Terminal, Sparkles } from 'lucide-react';
 
+
 export default function Hero() {
   const heroRef = useRef<HTMLDivElement>(null);
 
@@ -107,7 +108,7 @@ export default function Hero() {
               style={{ opacity: 0, transform: 'translateY(20px)', transition: 'all 0.6s ease' }}
             >
               <a
-                href="#"
+                href="\Avith_FlowCV_Resume_2026-04-29 (2).pdf"
                 className="btn-primary flex items-center gap-2 text-sm"
               >
                 <Download size={16} />
