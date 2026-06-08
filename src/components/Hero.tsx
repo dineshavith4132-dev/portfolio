@@ -168,7 +168,7 @@ export default function Hero() {
               {/* Profile container */}
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96 rounded-full border-2 border-accent-primary/30 overflow-hidden glass animate-float shadow-glow-lg">
                 <img
-                  src="download (3).jpg"
+                  src="Ichigo.jpg"
                   alt="Avith Poojary"
                   className="w-full h-full object-cover object-center"
                 />
