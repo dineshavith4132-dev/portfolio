@@ -109,7 +109,7 @@ export default function Hero() {
             >
               <a
                 href="/resume.pdf"
-                download="Avith_FlowCV_Resume_2026-04-29 (2).pdf"
+                download="Avith_Poojary_Resume.pdf"
                 className="btn-primary flex items-center gap-2 text-sm"
               >
                 <Download size={16} />
