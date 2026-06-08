@@ -127,7 +127,7 @@ export default function Hero() {
                 Contact Me
               </a>
               <a
-                href="https://linkedin.com/in/avith-d-poojary"
+                href="https://www.linkedin.com/in/avith-d-poojary-b27ba7336"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-6 py-3 glass border border-border-default hover:border-accent-primary/40 text-text-secondary hover:text-accent-primary font-semibold rounded-lg transition-all duration-300 text-sm"
