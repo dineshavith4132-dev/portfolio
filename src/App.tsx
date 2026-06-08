@@ -1,3 +1,4 @@
+import LoadingScreen from './components/loadingscreen';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
@@ -12,6 +13,7 @@ import BackToTop from './components/BackToTop';
 export default function App() {
   return (
     <div className="min-h-screen bg-bg-primary font-sans">
+      <LoadingScreen />
       <Navbar />
       <main>
         <Hero />
